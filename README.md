@@ -1,2 +1,2 @@
 # Sharing-github
-Data scinece Exercise
+Data scinece Exercises/Projects
